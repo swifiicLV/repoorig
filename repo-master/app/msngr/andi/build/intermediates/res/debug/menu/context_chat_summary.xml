@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android" >
+    <item android:id="@+id/delete_chat"
+        android:enabled="true"
+        android:visible="true"
+        android:title="Delete" />
+</menu>
+<!-- From: file:/home/sriya/repo/repo-master/app/msngr/andi/res/menu/context_chat_summary.xml -->

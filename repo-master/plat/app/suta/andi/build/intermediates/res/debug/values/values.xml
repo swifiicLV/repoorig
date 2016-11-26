@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- From: file:/home/sriya/repo/repo-master/plat/app/suta/andi/res/values/dimens.xml -->
+    <eat-comment/>
+    <dimen name="activity_horizontal_margin">16dp</dimen>
+    <dimen name="activity_vertical_margin">16dp</dimen>
+    <!-- From: file:/home/sriya/repo/repo-master/plat/app/suta/andi/res/values/strings.xml -->
+    <eat-comment/>
+    <string name="action_settings">Settings</string>
+    <string name="action_userList">User List</string>
+    <string name="app_build_ctx">sriya-Inspiron-3537 /home/sriya/repo/repo-master/plat/app/suta/andi sriya</string>
+    <string name="app_build_date">20161026</string>
+    <string name="app_name">SUTA</string>
+    <!-- From: file:/home/sriya/repo/repo-master/plat/app/suta/andi/res/values/strings_activity_settings.xml -->
+    <eat-comment/>
+    <string name="pref_default_hub_address">dtn://aarthi-hub.dtn</string>
+    <string name="pref_default_my_identity">aarthi</string>
+    <string name="pref_default_reset">Set Reset in SUTA - Devlopment only</string>
+    <string name="pref_title_hub_address">SWiFiIC Hub Address</string>
+    <string name="pref_title_my_identity">User Name</string>
+    <!-- From: file:/home/sriya/repo/repo-master/plat/app/suta/andi/res/values/strings.xml -->
+    <eat-comment/>
+    <string name="remainingCredits">Remaining Credits :</string>
+    <!-- From: file:/home/sriya/repo/repo-master/plat/app/suta/andi/res/values/strings_activity_settings.xml -->
+    <eat-comment/>
+    <string name="title_activity_settings">Settings</string>
+    <!-- From: file:/home/sriya/repo/repo-master/plat/app/suta/andi/res/values/strings.xml -->
+    <eat-comment/>
+    <string name="transactions">Transactions :</string>
+    <string name="updatedAt">Update sent by hub at :</string>
+    <!-- From: file:/home/sriya/repo/repo-master/plat/app/suta/andi/res/values/styles.xml -->
+    <eat-comment/>
+    <style name="AppBaseTheme" parent="android:Theme.Light">
+        <!--
+            Theme customizations available in newer API levels can go in
+            res/values-vXX/styles.xml, while customizations related to
+            backward-compatibility can go here.
+        -->
+    </style>
+    <style name="AppTheme" parent="AppBaseTheme">
+        <!-- All customizations that are NOT specific to a particular API-level can go here. -->
+    </style>
+</resources>

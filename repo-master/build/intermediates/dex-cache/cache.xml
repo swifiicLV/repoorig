@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/home/sriya/repo/repo-master/lib/common/org-apache-commons-lang.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="d128049072a01fa99f7ea3b826d14cf42a7e3245">
+        <dex dex="/home/sriya/repo/repo-master/plat/app/soa/andi/build/intermediates/pre-dexed/debug/org-apache-commons-lang-7f11fc8677a840f5d0d34e0759b147cfc314eaee.jar" />
+    </item>
+    <item
+        jar="/home/sriya/repo/repo-master/plat/app/soa/andi/libs/joda-time-2.1.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="8f79e353ef77da6710e1f10d34fc3698eaaacbca">
+        <dex dex="/home/sriya/repo/repo-master/plat/app/soa/andi/build/intermediates/pre-dexed/debug/joda-time-2.1-688b5e7510b70581d760bafeb288c72981da6976.jar" />
+    </item>
+    <item
+        jar="/home/sriya/repo/repo-master/plat/app/soa/andi/build/intermediates/exploded-aar/repo-master.plat.base/andi/unspecified/jars/libs/android-support-v4.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="5896b0a4e377ac4242eb2bc785220c1c4fc052f4">
+        <dex dex="/home/sriya/repo/repo-master/plat/app/soa/andi/build/intermediates/pre-dexed/debug/android-support-v4-6edebd5eba3e1b0977e2a35e5e25a891f2991dd3.jar" />
+    </item>
+    <item
+        jar="/home/sriya/repo/repo-master/plat/app/soa/andi/build/intermediates/exploded-aar/repo-master.plat.base/andi/unspecified/jars/libs/simple-xml-2.7.1.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="083623424bcfa03bd598e709765bad0816c2375d">
+        <dex dex="/home/sriya/repo/repo-master/plat/app/soa/andi/build/intermediates/pre-dexed/debug/simple-xml-2.7.1-4bae24a1e7eaab7817d8df047c11659e3646ab3e.jar" />
+    </item>
+    <item
+        jar="/home/sriya/repo/repo-master/plat/app/soa/andi/build/intermediates/exploded-aar/repo-master.plat.base/andi/unspecified/jars/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="04483e76a64e23824782c55216d8a0db18f9d862">
+        <dex dex="/home/sriya/repo/repo-master/plat/app/soa/andi/build/intermediates/pre-dexed/debug/classes-d059362dd47353d4230fb43b3d795ee6366c8782.jar" />
+    </item>
+    <item
+        jar="/home/sriya/repo/repo-master/plat/app/soa/andi/build/intermediates/exploded-aar/repo-master.plat.base/andi/unspecified/jars/libs/android-ibrdtn-api.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="136f5bab83f8f49b2b0af477efe2dfa35f6c5ab9">
+        <dex dex="/home/sriya/repo/repo-master/plat/app/soa/andi/build/intermediates/pre-dexed/debug/android-ibrdtn-api-d0da4f683b5a2fca863df9d9ad066aaa1a600c47.jar" />
+    </item>
+
+</items>
